@@ -14,3 +14,6 @@ function BlogPost() {
 }
 
 export default BlogPost;
+
+
+// adding this here to push as no tests were designed
